@@ -9,10 +9,10 @@ require_once("sdata-modules.php");
 */
 ##############################################################################################################
 
-$config['mmses'] 		= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-$config['gaid'] 		= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-$config['av'] 			= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-$config['imei'] 		= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$config['mmses'] 		= 'vRblsd6jUqF69clttyQ79q31XKbIKHMTJhEbh1z3jeJ3/rgdZtdiK1sHpLORumVUSswmLc10fiGSR1c3Ckn/2A==';
+$config['gaid'] 		= '3ed77b2c-2d63-44fe-b7b2-a75d17ae6f2e';
+$config['av'] 			= '23030';
+$config['imei'] 		= '359998061389187';
 
 ##############################################################################################################
 echo "[+] BOT TELAH JALAN ... TUNGGU SEBENTAR ..\r\n";
